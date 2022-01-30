@@ -24,9 +24,9 @@ Traceback (most recent call last):
   File "HelloWorld.py", line 10, in <module>
     s += char
 NameError: name 'char' is not defined
-
-Proof at OneCompiler [3xrun7udf](https://onecompiler.com/python/3xrun7udf) 
 ```
+Proof at OneCompiler [3xrun7udf](https://onecompiler.com/python/3xrun7udf) 
+
 
 ## question 2
 Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di atas dengan `s += char1`, jalankan dan tampilkan hasilnya.
