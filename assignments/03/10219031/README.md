@@ -33,21 +33,42 @@ Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di ata
 
 ### anwser 2
 Hasil modifikasi kode di atas adalah
+```python
+Output:
+
+1:◻
+0:
+2:◻◻
+1:◻
+9:◻◻◻◻◻◻◻◻◻
+0:
+3:◻◻◻
+1:◻
 ```
-```
+Proof at OneCompiler [3xry4mxzj](https://onecompiler.com/python/3xry4mxzj)
 
 ## question 3
 Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di atas dengan `s += char2`, jalankan dan tampilkan hasilnya.
 
 ### anwser 3
 Hasil modifikasi kode di atas adalah
-```
-```
+```pyhton
+Output:
 
+1:◼
+0:
+2:◼◼
+1:◼
+9:◼◼◼◼◼◼◼◼◼
+0:
+3:◼◼◼
+1:◼
+```
+Proof at OneCompiler [3xry4y2j9](https://onecompiler.com/python/3xry4y2j9)
 ## question 4
 Jelaskan dengan singkat hal yang dihasillkan oleh kode yang diberikan.
 
 ### answer 4
 Kode di atas berfungsi untuk
-+ ..
-+ ..
++ Mengimport chart dari html dengan char1 kotak kosong dan char2 kotak hitam
++ NIM pada kode tersebut diimplentasikan char1 atau char 2 dengan bantuan 's' agar jumlah kotak akan terus bertambah sampai dengan angka pada NIM
