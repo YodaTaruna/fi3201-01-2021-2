@@ -74,6 +74,7 @@ Baca penjelasan mengenai kode di atas pada <https://dudung.github.io/bugx/0026/>
 ### answer 1
 Apakah penjelasan kode dia atas sudah dibaca atau hadir pada kuliah?
 ```
+Kode diatas sudah saya baca dan saya hadir pada kuliah
 ```
 
 ## question 2
@@ -82,9 +83,10 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 2
 Potongan kode yang perlu disisipkan adalah
 ```
+y = np.sin(2 * np.pi * (x/2 - i/2))
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right]()
+![gif file from simulation wave to right](https://github.com/YodaTaruna/fi3201-01-2021-2/blob/main/assignments/04/10219031/Gelombang%20kekanan.gif)
 
 
 ## question 3
@@ -93,9 +95,10 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 3
 Potongan kode yang perlu disisipkan adalah
 ```
+y = np.sin(2 * np.pi * (x/2 + i/2))
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to left]()
+![gif file from simulation wave to left](https://github.com/YodaTaruna/fi3201-01-2021-2/blob/main/assignments/04/10219031/Gelombang%20kekiri.gif)
 
 
 ## question 4
@@ -104,6 +107,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang stasion
 ### answer 4
 Potongan kode yang perlu disisipkan adalah
 ```
+y = np.sin(2 * np.pi * x/2) * np.cos(2 * np.pi * i/2)
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave stationary]()
+![gif file from simulation wave stationary](https://github.com/YodaTaruna/fi3201-01-2021-2/blob/main/assignments/04/10219031/Gelombang%20stasioner.gif)
